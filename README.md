@@ -15,7 +15,3 @@ The app will automatically reload if you change any of the source files.
 
 Run `gatsby build` to build the project.
 
-## Running unit tests
-
-Run `npm run test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-"# buildxact-demo" 
